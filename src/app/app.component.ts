@@ -67,7 +67,7 @@ export class AppComponent {
     //Y Ekseni 
     yAxis: {
       title: {
-        text: "Y Eksini"
+        text: "Fiyat"
       }
     },
     // X Ekseni
